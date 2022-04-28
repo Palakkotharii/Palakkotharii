@@ -5,7 +5,7 @@
 
 ### Introduction:
 
-Hi, I'm Palak Kothari, A Student and Learner 💻 from Pune, Maharashtra .rrently I'm in Sophomore year pursuing Bachelors in Computer Science & Engineering. and I am passionate about technology and want to learn & explore new technologies . Beside's Computer Science, I love Dancing , Travelling and Singing.
+Hi, I'm Palak Kothari, A Student and Learner 💻 from Pune, Maharashtra .Currently I'm in Sophomore year pursuing Bachelors in Computer Science & Engineering. and I am passionate about technology and want to learn & explore new technologies . Beside's Computer Science, I love Dancing , Travelling and Singing.
 
 
 
