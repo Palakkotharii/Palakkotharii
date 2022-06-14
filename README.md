@@ -1,4 +1,4 @@
-## Hello, I'm Palak Kothari <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+## Hello, I'm Palak Kothari <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="40px"> 
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=A+Full+Stack+Web+Developer!!;A+Passionate+Coder!!;A+Multitasker!!)](https://git.io/typing-svg)<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
