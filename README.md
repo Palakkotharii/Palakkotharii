@@ -11,12 +11,11 @@ Hi, I'm Palak Kothari, A Student and Learner 💻 from India . Currently I'm in 
 
 
 ###
-- 👀 I’m interested in Full Stack Web Development, DevOps and ML
+- 👀 I’m interested in Full Stack Web Development and BlockChain.
 - 🌱 I’m currently learning everything 😂
-- 📌 I have enormous interest in Open Source.
-- 💞️ I’m looking to collaborate with other amazing developers
-- 🥅 2022 Goal: To create some amazing project
-- 💬 Let's chat about Technological wonders
+- 💞️ I’m looking to collaborate with other amazing developers.
+- 🥅 2022 Goal: To create some amazing project.
+- 💬 Let's chat about Technological wonders.
 - 😄 Pronouns: She/Her
 
 ---
