@@ -5,16 +5,16 @@
 
 ### Introduction:
 
-Hi, I'm Palak Kothari, A Student and Learner 💻 from India . Currently I'm in Sophomore year pursuing Bachlers in Computer Science & Engineering. and I'm passionate about technology and want to learn & explore new technologies . Beside's Computer Science, I love Dancing, Travelling and Singing.
+Hi, I'm Palak Kothari, A Student and Learner 💻 from India . Currently I'm in Sophomore year pursuing Bachlers in Information and Technology. and I'm passionate about technology and want to learn & explore new technologies . Beside's Computer Science, I love Dancing, Travelling and Singing.
 
 
 
 
 ###
-- 👀 I’m interested in Full Stack Web Development and BlockChain.
-- 🌱 I’m currently learning everything 😂
+- 👀 I’m interested in Full Stack Web Development and trading.
+- 🌱 I’m currently learning Blockchain and DSA.
 - 💞️ I’m looking to collaborate with other amazing developers.
-- 🥅 2022 Goal: To create some amazing project.
+- 🥅 2023 Goal: To create some amazing project.
 - 💬 Let's chat about Technological wonders.
 - 😄 Pronouns: She/Her
 
