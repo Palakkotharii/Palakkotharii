@@ -11,7 +11,7 @@ Hi, I'm Palak Kothari, A Student and Learner 💻 from India . Currently I'm in 
 
 
 ###
-- 👀 I’m interested in Full Stack Web Development and trading.
+- 👀 I’m interested in Full Stack Web Development .
 - 🌱 I’m currently learning Blockchain and DSA.
 - 💞️ I’m looking to collaborate with other amazing developers.
 - 🥅 2023 Goal: To create some amazing project.
