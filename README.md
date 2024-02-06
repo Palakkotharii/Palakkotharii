@@ -20,7 +20,8 @@ Hi, I'm Palak Kothari, A Student and Learner 💻 from India . Currently I'm in 
 
 ---
 ### 🧾 Recent Contributions:
-[![Palak's  github activity graph](https://activity-graph.herokuapp.com/graph?username=Palakkotharii&theme=react-dark)](https://github.com/Palakkotharii/)
+![Palak's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Palakkotharii&custom_title=Palak%20Kothari's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
 
 ### 📊 Some Fun Stats:
 | ![My Stats](https://github-readme-stats.vercel.app/api?username=Palakkotharii&theme=midnight-purple) | ![My Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Palakkotharii&theme=midnight-purple) |
