@@ -5,7 +5,7 @@
 
 ### Introduction:
 
-Hi, I'm Palak Kothari, A Student and Learner 💻 from India . Currently I'm in Third year pursuing Bachlors in Information and Technology. and I'm passionate about technology and want to learn & explore new technologies . Beside's Computer Science, I love Kathak [Dancing style] and Singing.
+Hi, I'm Palak Kothari, A Student and Learner 💻 from India . Currently I'm in fourth year pursuing Bachlors in Information and Technology. and I'm passionate about technology and want to learn & explore new technologies . Beside's Computer Science, I love Kathak [Dancing style] and Singing.
 
 
 
