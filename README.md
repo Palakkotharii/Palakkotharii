@@ -11,9 +11,9 @@ Hi, I'm Palak Kothari, A Student and Learner 💻 from India . Currently I'm in 
 
 
 ###
-- 🌱 I’m currently learning Machine Learning and DSA.
+- 🌱 I’m currently learning DSA and Machine Learning  .
 - 💞️ I’m looking to collaborate with other amazing developers.
-- 🥅 2024 Goal: To create some amazing project.
+- 🥅 2025 Goal: To create some amazing project.
 - 💬 Let's chat about Technological wonders.
 - 😄 Pronouns: She/Her
 
