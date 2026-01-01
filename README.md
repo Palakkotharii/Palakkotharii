@@ -5,7 +5,7 @@
 
 ### Introduction:
 
-Hi, I'm Palak Kothari, A Student and Learner 💻 from India . Currently I'm in fourth year pursuing Bachlors in Information and Technology. and I'm passionate about technology and want to learn & explore new technologies . Beside's Computer Science, I love Kathak [Dancing style] and Singing.
+Hi, I'm Palak Kothari, A Student and Learner 💻 from India . Currently I'm a recent gradaute in Bachlors in Information and Technology. and I'm passionate about technology and want to learn & explore new technologies . Beside's Computer Science, I love Kathak [Dancing style] and Singing.
 
 
 
@@ -13,7 +13,7 @@ Hi, I'm Palak Kothari, A Student and Learner 💻 from India . Currently I'm in 
 ###
 - 🌱 I’m currently learning DSA and Machine Learning  .
 - 💞️ I’m looking to collaborate with other amazing developers.
-- 🥅 2025 Goal: To create some amazing project.
+- 🥅 2026 Goal: To create some amazing project.
 - 💬 Let's chat about Technological wonders.
 - 😄 Pronouns: She/Her
 
